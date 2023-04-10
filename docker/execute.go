@@ -7,7 +7,7 @@ import (
 	"github.com/docker/docker/api/types"
 	docker "github.com/docker/docker/client"
 	"github.com/docker/docker/pkg/stdcopy"
-	"github.com/willfantom/nescript"
+	"github.com/neaas/nescript"
 )
 
 // Executor provides an ExecFunc that will start the script/cmd process in the

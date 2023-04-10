@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/willfantom/nescript"
+	"github.com/neaas/nescript"
 	"golang.org/x/crypto/ssh"
 )
 

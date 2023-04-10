@@ -8,7 +8,7 @@ import (
 
 	"github.com/docker/docker/api/types"
 	docker "github.com/docker/docker/client"
-	"github.com/willfantom/nescript"
+	"github.com/neaas/nescript"
 )
 
 type DockerProcess struct {

@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/willfantom/nescript"
+	"github.com/neaas/nescript"
 )
 
 // Process represents a single instance of the script running or completed on

@@ -3,7 +3,7 @@ package local
 import (
 	"fmt"
 
-	"github.com/willfantom/nescript"
+	"github.com/neaas/nescript"
 )
 
 // Executor returns an exec func that can execute a NEScript locally. A working

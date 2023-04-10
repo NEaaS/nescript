@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/willfantom/nescript"
-	"github.com/willfantom/nescript/expr"
-	"github.com/willfantom/nescript/local"
+	"github.com/neaas/nescript"
+	"github.com/neaas/nescript/expr"
+	"github.com/neaas/nescript/local"
 )
 
 var (

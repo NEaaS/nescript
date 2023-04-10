@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/antonmedv/expr"
-	"github.com/willfantom/nescript"
+	"github.com/neaas/nescript"
 )
 
 // EvalFunc returns a evaluation function that will use the expr package to

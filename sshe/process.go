@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/willfantom/nescript"
+	"github.com/neaas/nescript"
 	"golang.org/x/crypto/ssh"
 )
 

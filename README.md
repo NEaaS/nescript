@@ -1,6 +1,6 @@
-# nescript    ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/willfantom/nescript?display_name=tag&label=%20&sort=semver)
+# nescript    ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/neaas/nescript?display_name=tag&label=%20&sort=semver)
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/willfantom/nescript.svg)](https://pkg.go.dev/github.com/willfantom/nescript)
+[![Go Reference](https://pkg.go.dev/badge/github.com/neaas/nescript.svg)](https://pkg.go.dev/github.com/neaas/nescript)
 
 <!-- TODO: Add NES repo link -->
 Add automation to your network emulation workflows with [NES]() & NEScript 🚀

@@ -1,4 +1,4 @@
-module github.com/willfantom/nescript
+module github.com/neaas/nescript
 
 go 1.19
 
