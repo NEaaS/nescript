@@ -3,7 +3,7 @@ module github.com/neaas/nescript
 go 1.19
 
 require (
-	github.com/antonmedv/expr v1.12.5
+	github.com/antonmedv/expr v1.12.7
 	golang.org/x/crypto v0.8.0
 )
 
