@@ -3,7 +3,7 @@ package expr
 import (
 	"fmt"
 
-	"github.com/antonmedv/expr"
+	"github.com/expr-lang/expr"
 	"github.com/neaas/nescript"
 )
 
