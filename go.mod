@@ -4,7 +4,7 @@ go 1.22.3
 
 require (
 	github.com/expr-lang/expr v1.16.8
-	golang.org/x/crypto v0.23.0
+	golang.org/x/crypto v0.24.0
 )
 
 require (
@@ -35,5 +35,5 @@ require (
 
 require (
 	github.com/docker/docker v26.1.3+incompatible
-	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/sys v0.21.0 // indirect
 )
