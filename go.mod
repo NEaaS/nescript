@@ -34,6 +34,6 @@ require (
 )
 
 require (
-	github.com/docker/docker v26.1.3+incompatible
+	github.com/docker/docker v26.1.4+incompatible
 	golang.org/x/sys v0.20.0 // indirect
 )
